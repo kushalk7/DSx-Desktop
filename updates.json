@@ -1,6 +1,6 @@
 {
   "linux-x64-prod": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "readme": "Improved installer, support for Python 3.5 + Spark, various bug fixes",
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/ibm-dsx-desktop.AppImage",
     "platform": "linux",
@@ -31,22 +31,22 @@
     },
     "Anaconda (Python 2.7)": {
       "readme": "New image, same content",
-      "id": "sha256:30a1ccf7c0a084cb64c432097a74b9f2276ba5b7746ab735ad3358bf2ed2e604",
+      "id": "sha256:31a1ccf7c0a084cb64c432097a74b9f2276ba5b7746ab735ad3358bf2ed2e604",
       "bytes": "3880869181"
     },
     "Anaconda + Spark (Python 2.7, Scala, R)": {
       "readme": "New image, same content",
-      "id": "sha256:d6527bffbbeccb842b514a9b3d2e80fdd16cfd4e029e0bd835e631a58bdbec10",
+      "id": "sha256:d1527bffbbeccb842b514a9b3d2e80fdd16cfd4e029e0bd835e631a58bdbec10",
       "bytes": "6701098581"
     },
     "Anaconda (Python 3.5)": {
       "readme": "New image, same content",
-      "id": "sha256:10e13945f9cb66685b6eb9ae7bd38e337702acd51de92edb622702fe2e3b7b29",
+      "id": "sha256:11e13945f9cb66685b6eb9ae7bd38e337702acd51de92edb622702fe2e3b7b29",
       "bytes": "5587966872"
     },
     "Anaconda + Spark (Python 3.5, Scala, R)": {
       "readme": "New image, same content",
-      "id": "sha256:a7275b16004c0429ab1ff7aaf93fde40046fe9e083d59a7d9a33c51474ca1a31",
+      "id": "sha256:a1275b16004c0429ab1ff7aaf93fde40046fe9e083d59a7d9a33c51474ca1a31",
       "bytes": "7290666551"
     },
     "RStudio with Spark": {
