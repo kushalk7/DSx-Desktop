@@ -8,7 +8,7 @@
     "size": "71.6 MB"
   },
   "win32-x64-prod": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "readme": "Improved installer, support for Python 3.5 + Spark, various bug fixes",
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/",
     "platform": "win32",
@@ -16,7 +16,7 @@
     "size": "72.4 MB"
   },
   "darwin-x64-prod": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "readme": "Improved installer, support for Python 3.5 + Spark, various bug fixes",
     "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/release.json",
     "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.2.3/IBM_DSX_Desktop-1.2.3.dmg",
